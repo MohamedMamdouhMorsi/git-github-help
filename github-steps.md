@@ -35,6 +35,18 @@ git push -u origin main
 ```
 git pull origin main     
 ```  
+
+## To Save Your Exist Work Use Stach 
+```
+
+git add .
+
+git stash
+
+git pull 
+
+git stash apply 
+```
 ### (((   or whatever your branch name   )))
 
 ### i think we Done !! 
